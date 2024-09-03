@@ -223,3 +223,13 @@ Bigtable is GCP’s managed wide-column database. It is also a good option for m
 Cloud Bigtable is a wide-column NoSQL database used for high-volume databases that require low millisecond (ms) latency. Cloud Bigtable is used for IoT, time-series, finance, and similar applications.
 
 From <https://www.passnexam.com/google/professional-data-engineer/3> 
+
+
+
+Question 23
+
+You are responsible for writing your company's ETL pipelines to run on an Apache Hadoop cluster. The pipeline will require some checkpointing and splitting pipelines. Which method should you use to write the pipelines?
+PigLatin using Pig
+HiveQL using Hive
+Java using MapReduce
+Python using MapReduce
