@@ -232,3 +232,10 @@ You are responsible for writing your company's ETL pipelines to run on an Apache
 - HiveQL using Hive
 - Java using MapReduce
 - Python using MapReduce
+
+
+Answer is PigLatin using Pig
+
+Pig is scripting language which can be used for checkpointing and splitting pipelines
+
+
