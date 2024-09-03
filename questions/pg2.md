@@ -1,4 +1,4 @@
-Question 15
+### Question 15
 
 Your globally distributed auction application allows users to bid on items. Occasionally, users place identical bids at nearly identical times, and different application servers process those bids. Each bid event contains the item, amount, user, and timestamp.
 You want to collate those bid events into a single location in real time to determine which user bid first.
@@ -14,7 +14,7 @@ From <https://www.passnexam.com/google/professional-data-engineer/2>
 
 
 
-Question 18
+### Question 18
 
 Your infrastructure includes a set of YouTube channels. You have been tasked with creating a process for sending the YouTube channel data to Google Cloud for analysis. You want to design a solution that allows your world-wide marketing teams to perform ANSI SQL and other types of analysis on up-to-date YouTube channels log data.
 
@@ -201,8 +201,9 @@ Google Cloud Spanner and Google Cloud SQL are two managed database services offe
 
 
 
+---
 
-Question 22
+### Question 22
 
 Your financial services company is moving to cloud technology and wants to store 50 TB of financial time-series data in the cloud. This data is updated frequently and new data will be streaming in all the time. Your company also wants to move their existing Apache Hadoop jobs to the cloud to get insights into this data.
 
@@ -224,9 +225,8 @@ Cloud Bigtable is a wide-column NoSQL database used for high-volume databases th
 
 From <https://www.passnexam.com/google/professional-data-engineer/3> 
 
-
-
-Question 23
+---
+### Question 23
 
 You are responsible for writing your company's ETL pipelines to run on an Apache Hadoop cluster. The pipeline will require some checkpointing and splitting pipelines. Which method should you use to write the pipelines?
 - PigLatin using Pig
