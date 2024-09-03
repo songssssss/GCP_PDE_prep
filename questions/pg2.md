@@ -11,9 +11,7 @@ Have each application server write the bid events to Google Cloud Pub/Sub as the
 
 From <https://www.passnexam.com/google/professional-data-engineer/2> 
 
-
-
-
+---
 ### Question 18
 
 Your infrastructure includes a set of YouTube channels. You have been tasked with creating a process for sending the YouTube channel data to Google Cloud for analysis. You want to design a solution that allows your world-wide marketing teams to perform ANSI SQL and other types of analysis on up-to-date YouTube channels log data.
