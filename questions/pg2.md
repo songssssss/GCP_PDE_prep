@@ -229,7 +229,7 @@ From <https://www.passnexam.com/google/professional-data-engineer/3>
 Question 23
 
 You are responsible for writing your company's ETL pipelines to run on an Apache Hadoop cluster. The pipeline will require some checkpointing and splitting pipelines. Which method should you use to write the pipelines?
-PigLatin using Pig
-HiveQL using Hive
-Java using MapReduce
-Python using MapReduce
+- PigLatin using Pig
+- HiveQL using Hive
+- Java using MapReduce
+- Python using MapReduce
