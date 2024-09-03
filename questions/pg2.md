@@ -1,3 +1,5 @@
+
+---
 ### Question 15
 
 Your globally distributed auction application allows users to bid on items. Occasionally, users place identical bids at nearly identical times, and different application servers process those bids. Each bid event contains the item, amount, user, and timestamp.
@@ -30,8 +32,8 @@ Destination is GCS and having multi-regional so A is the best option available.
 Even since BigQuery Data Transfer Service initially supports Google application sources like Google Ads, Campaign Manager, Google Ad Manager and YouTube but it does not support destination anything other than bq data set
 
 
-
-Question 19
+---
+### Question 19
 
 You are designing storage for very large text files for a data pipeline on Google Cloud. You want to support ANSI SQL queries. You also want to support compression and parallel load from the input locations using Google recommended practices.
 
@@ -107,10 +109,11 @@ In this example, `my_permanent_table` is created in the dataset `mydataset` and 
 Both types of tables play important roles in managing and processing data effectively in BigQuery, depending on the use case and requirements.
 
 
+---
 
+### Question 21
 
-Question 21
-
+```
 You are designing storage for two relational tables that are part of a 10-TB database on Google Cloud. You want to support transactions that scale horizontally.
 
 You also want to optimize data for range queries on non-key columns.
@@ -120,10 +123,8 @@ Use Cloud SQL for storage. Add secondary indexes to support query patterns.
 Use Cloud SQL for storage. Use Cloud Dataflow to transform data to support query patterns.
 Use Cloud Spanner for storage. Add secondary indexes to support query patterns.
 Use Cloud Spanner for storage. Use Cloud Dataflow to transform data to support query patterns.
-
+```
 From <https://www.passnexam.com/google/professional-data-engineer/3> 
-
-
 
 
 Google Cloud Spanner and Google Cloud SQL are two managed database services offered by Google Cloud, each designed for different use cases and providing different features. Here’s a detailed comparison of the two:
